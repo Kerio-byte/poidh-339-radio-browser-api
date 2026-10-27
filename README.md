@@ -5,7 +5,7 @@ Submission for the poidh bounty "find the most useful free API nobody knows abou
 
 ## What is here
 
-- `proof.png` — the response and the stats endpoint rendered as one image (1280x800)
+- `proof-final.png` — the response and the stats endpoint rendered as one image (1280x800)
 - `evidence/stats.json` — raw output of `GET https://de1.api.radio-browser.info/json/stats`
 - `evidence/demo_jp.json` — raw output of the Japan query used in the claim
 - `evidence/demo_fi_news.json` — same endpoint, Finnish news stations
